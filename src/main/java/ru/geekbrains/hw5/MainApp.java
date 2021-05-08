@@ -18,6 +18,7 @@ public class MainApp {
             if (workers[i].age > 40) {
                 workers[i].info();
             }
+            System.out.println("");
     }
     }
 }
